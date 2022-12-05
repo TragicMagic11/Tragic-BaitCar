@@ -1,4 +1,4 @@
-## Scripted by TragicMagic
+--Scripted by TragicMagic
 
 resoucre_manifest_version 'V1.0.0'
 
